@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi 👋, I'm Anil Paneru</h1>
 <h3 align="center">A Passionate Data Scientist from [Your Location]</h3>
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=theanilpaneru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://twitter.com/yourtwitter">
+  <a href="https://twitter.com/ani7">
     <img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Data Structures and Machine Learning**.
 - 👯 I’m looking to collaborate on **open-source data science projects**.
 - 💬 Ask me about **Python, Data Analysis, or Machine Learning**.
-- 📫 How to reach me: **example@gmail.com**.
+- 📫 How to reach me: **theanilpaneru@gmail.com**.
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ---
@@ -62,8 +62,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theanilpaneru&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theanilpaneru&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theanilpaneru&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -96,9 +96,9 @@
 
 <p align="center">
   <a href="https://github.com/yourusername/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=dark" alt="Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theanilpaneru&repo=repo1&theme=dark" alt="Repo 1" />
   </a>
   <a href="https://github.com/yourusername/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=dark" alt="Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theanilpaneru&repo=repo2&theme=dark" alt="Repo 2" />
   </a>
 </p>
