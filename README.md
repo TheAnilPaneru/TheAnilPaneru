@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anil Paneru</h1>
-<h3 align="center">A Passionate Data Scientist from [Your Location]</h3>
+<h3 align="center">A Passionate Data Scientist from Nepal</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/theanilpaneru">
     <img src="https://komarev.com/ghpvc/?username=theanilpaneru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://twitter.com/ani7">
